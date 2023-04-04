@@ -1,0 +1,142 @@
+[
+    {
+        "fields": {
+            "age": 21,
+            "first_name": "Павел",
+            "last_name": "Никифоров",
+            "location": [
+                "1"
+            ],
+            "password": "gZvptL",
+            "role": "member",
+            "username": "pnikifirov"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 24,
+            "first_name": "Альбина",
+            "last_name": "Игнатьева",
+            "location": [
+                "3"
+            ],
+            "password": "4fVqL2",
+            "role": "moderator",
+            "username": "abiba_1341"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 29,
+            "first_name": "Иван",
+            "last_name": "Сысоев",
+            "location": [
+                "8"
+            ],
+            "password": "o535pj",
+            "role": "admin",
+            "username": "vanya777"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 19,
+            "first_name": "Марина",
+            "last_name": "Беркутова",
+            "location": [
+                "10"
+            ],
+            "password": "d49rSO",
+            "role": "moderator",
+            "username": "orlanfree"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 41,
+            "first_name": "Галина",
+            "last_name": "Иванова",
+            "location": [
+                "2"
+            ],
+            "password": "wCqlVE",
+            "role": "member",
+            "username": "galina_ivanova"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 37,
+            "first_name": "Петр",
+            "last_name": "Бойченко",
+            "location": [
+                "4"
+            ],
+            "password": "xuR2jf",
+            "role": "member",
+            "username": "petr_bo"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 26,
+            "first_name": "Никита",
+            "last_name": "",
+            "location": [
+                "7"
+            ],
+            "password": "gzP4vR",
+            "role": "member",
+            "username": "nikitapro"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 24,
+            "first_name": "Виолетта",
+            "last_name": "Петушок",
+            "location": [
+                "5"
+            ],
+            "password": "zo0rj6",
+            "role": "member",
+            "username": "riverna"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 22,
+            "first_name": "Гульнара",
+            "last_name": "Ибрагимова",
+            "location": [
+                "9"
+            ],
+            "password": "daMocL",
+            "role": "moderator",
+            "username": "gulnara321"
+        },
+        "model": "users.user"
+    },
+    {
+        "fields": {
+            "age": 35,
+            "first_name": "Борис",
+            "last_name": "Зайка",
+            "location": [
+                "6"
+            ],
+            "password": "sasha123456",
+            "role": "member",
+            "username": "dragon84"
+        },
+        "model": "users.user"
+    }
+]
